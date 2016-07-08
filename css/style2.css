@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+.body{
+background-color: #99FFCC;
+}
+
+img.i{
+float: left;
+}
+
+h2{
+text-align: right;
+ }
